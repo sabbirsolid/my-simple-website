@@ -1,5 +1,25 @@
-div{
+.content{
     background-color: aqua;
     padding: 10px;
     margin: 10px ;
+}
+#pic{
+    background-image: url('../images/green.jpg');
+    width: 125%;
+    height: 1000px;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+h3{
+    margin-left: 10px;
+}
+#stext{
+    color: darkblue;
+}
+button{
+    background-color: green;
+    color: aliceblue;
+}
+span{
+    padding: 20%;
 }
