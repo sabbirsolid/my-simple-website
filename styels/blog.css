@@ -2,6 +2,7 @@
     background-color: aqua;
     padding: 10px;
     margin: 10px ;
+    width: 1490px;
 }
 #pic{
     background-image: url('../images/green.jpg');
@@ -20,6 +21,7 @@ button{
     background-color: green;
     color: aliceblue;
 }
-span{
-    padding: 20%;
+.sa{
+    margin-left: 30px;
+    margin-top: 20px;
 }
